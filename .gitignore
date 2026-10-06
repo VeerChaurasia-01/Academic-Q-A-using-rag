@@ -1,0 +1,27 @@
+# Virtual environment
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE
+.vscode/
+.idea/
+
+# Vector database / generated files
+vector_store/
+
+# Temporary uploaded files
+data/uploads/
+
+# OS files
+.DS_Store
+Thumbs.db
